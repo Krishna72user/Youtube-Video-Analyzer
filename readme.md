@@ -40,15 +40,15 @@ An AI-powered app that analyzes YouTube videos using **Agno agents** and present
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Krishna72user/Youtube-Video-Analyzer.git
+cd Youtube-Video-Analyzer
 ```
 
 2. Create a virtual environment:
 
 ```
 python -m venv venv
-source venv/bin/activate   # Windows: venv\\Scripts\\activate
+source venv/bin/activate   # Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
